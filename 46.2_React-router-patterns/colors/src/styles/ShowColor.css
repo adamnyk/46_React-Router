@@ -1,0 +1,10 @@
+.ShowColor {
+    color: white;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 20px;
+}
+
+.ShowColor a {
+    color: white;
+}

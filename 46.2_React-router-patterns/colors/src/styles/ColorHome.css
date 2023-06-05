@@ -1,0 +1,13 @@
+.ColorHome-header {
+    background-color: rgb(25, 31, 31);
+    color:white;
+    padding: 10px;
+}
+
+.ColorHome-header a {
+    color:white;
+}
+
+.ColorHome ul {
+    margin: 0px;
+}

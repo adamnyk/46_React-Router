@@ -1,0 +1,21 @@
+.ColorForm {
+
+    background-color: rgb(186, 186, 186);
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    width: 50vw;
+    margin-top: 25vh;
+
+
+}
+
+.ColorFrom-btn-container {
+    margin-top: 20px;
+}
+
+.ColorForm-container {
+    height: 100vh;
+    width:100vw;   
+    background-image: linear-gradient(to bottom right, teal, yellow);
+}

@@ -1,0 +1,20 @@
+.Nav {
+background-color: rgb(107, 216, 213);
+padding: 10px;
+
+}
+
+.Nav a {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    padding-top: 12px;
+
+}
+
+.Nav a.active {
+background-color: rgba(0, 0, 0, 0.412);
+}

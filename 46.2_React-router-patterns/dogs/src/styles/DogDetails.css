@@ -1,0 +1,11 @@
+.DogDetails {
+    text-align: center;
+}
+.DogDetails ul {
+display:inline-block;
+text-align: left;
+}
+
+.DogDetails a {
+    display: block;
+}
